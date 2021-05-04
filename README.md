@@ -1,6 +1,10 @@
 # ErgoDox Keymaps
 > My keymap configurations for ErgoDox
 
+## Links
+- [ORYX: ElgoDox EZ Configurator](https://configure.zsa.io/)
+- [teensy loader cli](https://www.pjrc.com/teensy/loader_cli.html)
+
 ## Preparation
 On Ubuntu, you may need to install "libusb-dev" to compile.
 ```bash
